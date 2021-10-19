@@ -20,8 +20,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/confluentinc/confluent-kafka-go/instrumentation/otel/internal"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/eko/confluent-kafka-go/instrumentation/otel/internal"
 
 	"go.opentelemetry.io/contrib"
 	"go.opentelemetry.io/otel"

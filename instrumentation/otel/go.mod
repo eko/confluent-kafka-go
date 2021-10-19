@@ -1,4 +1,4 @@
-module github.com/confluentinc/confluent-kafka-go/instrumentation/otel
+module github.com/eko/confluent-kafka-go/instrumentation/otel
 
 go 1.17
 
